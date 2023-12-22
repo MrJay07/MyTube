@@ -47,7 +47,7 @@ const Feed = () => {
                 sx={{mt: 1.5, color: '#fff'}}
             >
                 {/* Typography is just a simple component used for all text elements */}
-                Copyright {date.getFullYear()} uViewTube
+                Copyright {date.getFullYear()} myTube
             </Typography>
         </Box>
 
